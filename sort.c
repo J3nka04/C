@@ -11,3 +11,11 @@
            }
        }
    }
+int main(){
+
+	int a[] = {4,2};
+	int n = sizeof(a)/sizeof(a)[0]);
+	bubbleSort(a,n);
+	return 0;
+
+}
